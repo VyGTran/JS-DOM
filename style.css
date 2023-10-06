@@ -1,0 +1,11 @@
+#alertButton {
+    margin-bottom: 15px
+}
+
+.btn_onclick {
+    margin: 10px 0px;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
